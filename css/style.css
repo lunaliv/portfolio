@@ -124,7 +124,7 @@ header [class^="container-"] [class^="col-"], header [class^="container-"] [clas
 
 /* font family */
 .alt-font {font-family: 'Montserrat', sans-serif; font-weight: 500}
-.main-font {font-family: 'Roboto', sans-serif;}
+.main-font {font-family: 'Roboto', 'SF Display', sans-serif;}
 
 /* heading */
 h1, h2, h3, h4, h5, h6 {margin:0 0 25px; padding:0; letter-spacing: 0; font-weight: 400;}
@@ -3903,7 +3903,7 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 --------------------------------------------------------------*/
 .services .icon-box {margin: 0 auto;
     text-align: center;
-    padding: 30px 20px 30px 20px;
+    padding: 20px 0;
     transition: all ease-in-out 0.3s;
     /*background: #fff;
     box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);*/
