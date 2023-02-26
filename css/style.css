@@ -2686,7 +2686,7 @@ nav.navbar.sidebar-nav{border: none; display: inline-table; width: 290px; border
 .sidebar-part2 .sidebar-middle {padding: 180px 0}
 .sidebar-part2 .sidebar-middle-menu {display: table-cell; height: 100%; width: 100%; vertical-align: middle}
 .bottom-menu-icon {width:90px; padding: 22px 30px; text-align: center;}
-header .sidebar-part2 nav.navbar.bootsnav ul > li > a {font-size: 24px; display: block; padding: 0; color: #0f0f0f; text-transform: none; margin: 0; line-height: 36px; font-weight: 600; position: relative;}
+header .sidebar-part2 nav.navbar.bootsnav ul > li > a {font-size: 18px; display: block; padding: 0; color: #0f0f0f; text-transform: none; margin: 0; line-height: 24px; font-weight: 600; position: relative;}
 header .sidebar-part2 nav.navbar.bootsnav ul > li > a > .fas {font-size: 25px; top: 10px; position: absolute; right: 18px;}
 header .sidebar-part2 nav.navbar.bootsnav ul > li > .second-level > li > a > .fas {font-size: 14px; line-height: 30px;}
 .sidebar-part2 ul > li {margin: 0; float: none; padding: 15px 0; width: 291px; word-break: break-all; position:initial;}
