@@ -2596,6 +2596,7 @@
 
     /* font size */
     .title-large { font-size: 85px; line-height: 85px;}
+    .title-large2 { font-size: 70px; line-height: 85px;}
     .text-extra-large { font-size: 18px; line-height: 24px;}
     .percent {line-height: 125px;}
 
@@ -2712,6 +2713,7 @@
     p { margin: 0 0 20px; }
 
     .title-large {font-size: 70px; line-height:65px}
+    .title-large2 {font-size: 58px; line-height:65px}
     .title-extra-large {font-size: 100px; line-height:95px}
     .percent {line-height: 125px;}
 
@@ -5524,6 +5526,7 @@
     .page-title-large h1 {font-size: 35px; line-height: 35px;}
     .page-title-medium h1 { font-size: 25px; line-height: 30px;}
     .title-large {font-size: 38px; line-height:44px}
+    .title-large2 {font-size: 38px; line-height:44px}
     .title-extra-large {font-size: 35px; line-height:40px}
 
     /* position */
